@@ -1,7 +1,16 @@
 aid: co2-ai
 name: CO2 AI
-description: 'CO2 AI is a company surfaced as a portfolio company of partech and added to the API Evangelist
-  network as a stub for enrichment. Sector: Climate. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  CO2 AI is an enterprise sustainability platform that helps organizations
+  measure, reduce, and report carbon emissions across their entire value chain.
+  It combines trustworthy emissions data, AI-powered workflows, and supply-chain
+  collaboration to baseline and track Scope 1, 2, and 3 corporate footprints,
+  compute audit-ready product carbon footprints (PCF) at scale across thousands
+  of SKUs (PACT, TfS, PEF, ISO aligned), engage suppliers for primary data, and
+  build decarbonization plans ranked by Marginal Abatement Cost. Backed by
+  Partech and surfaced to the API Evangelist network as a climate-sector company
+  profile. No public developer API is published as of this enrichment pass; the
+  profile captures the company's security, trust, and legal surface.
 url: https://raw.githubusercontent.com/api-evangelist/co2-ai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +18,31 @@ x-backed-by:
 - partech
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://co2ai.com/favicon.ico
 tags:
 - Company
 - Climate
+- Sustainability
+- Carbon Accounting
+- Carbon Footprint
+- ESG
+- Decarbonization
+- Supply Chain
+- Enterprise Software
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +52,24 @@ maintainers:
 common:
 - type: Website
   url: https://co2ai.com/
+- type: SignUp
+  url: https://co2ai.com/request-a-demo
+- type: TermsOfService
+  url: https://co2ai.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://co2ai.com/privacy-policy
+- type: Support
+  url: https://careers.co2ai.com/
+- type: Compliance
+  url: https://co2ai.com/platform/security
+- type: TrustCenter
+  url: https://trust.co2ai.com/
+- type: DomainSecurity
+  url: security/co2-ai-domain-security.yml
+- type: LLMsTxt
+  url: llms/co2-ai-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
