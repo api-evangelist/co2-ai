@@ -1,0 +1,29 @@
+# Front Door AI Index — co2-ai — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: co2-ai
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: co2ai.com
+  final_host: co2ai.com
+  ownership: own
+  owner: co2-ai
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 71
+  host_score: 71
+  density: 28.78
+  words: 2467
+  tiers:
+    agentic: 1
+    core: 70
+    model: 0
+  ambiguous: 4
+  top_terms:
+    AI: 70
+    automation: 2
+    AI agent: 1
+    agent: 1
+    smart: 1
