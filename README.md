@@ -64,6 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CO2 AI is a company surfaced as a portfolio company of partech and added to the API Evangelist network as a stub for enrichment. Sector: Climate. This profile is a lead awaiting the enrichment pipeline.
+CO2 AI is an enterprise sustainability platform that helps organizations measure, reduce, and report carbon emissions across their entire value chain. It combines trustworthy emissions data, AI-powered workflows, and supply-chain collaboration to baseline and track Scope 1, 2, and 3 corporate footprints, compute audit-ready product carbon footprints (PCF) at scale across thousands of SKUs (PACT, TfS, PEF, ISO aligned), engage suppliers for primary data, and build decarbonization plans ranked by Marginal Abatement Cost. Backed by Partech and surfaced to the API Evangelist network as a climate-sector company profile. No public developer API is published as of this enrichment pass; the profile captures the company's security, trust, and legal surface.
 
-Backed by: partech — https://co2ai.com/
+**Areas:** Company · Climate · Sustainability · Carbon Accounting · Carbon Footprint · ESG · Decarbonization · Supply Chain · Enterprise Software
+
+## CO2 AI on APIs.io
+
+Everything profiled for CO2 AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/co2-ai/](https://apis.io/providers/co2-ai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Co2 Ai Domain Security](https://apis.io/security/co2-ai/co2-ai-domain-security/)
+- [Co2 Ai Trust Center](https://apis.io/security/co2-ai/co2-ai-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://co2ai.com/)
+- [Sign up](https://co2ai.com/request-a-demo)
+- [Support](https://careers.co2ai.com/)
+- [Blog](https://co2ai.com/insights)
+- [Compliance](https://co2ai.com/platform/security)
+- [Trust centre](https://trust.co2ai.com/)
+- [Terms of service](https://co2ai.com/terms-of-use)
+- [Privacy policy](https://co2ai.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 17.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 50.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/co2-ai/](https://apis.io/providers/co2-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CO2 AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/co2-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
